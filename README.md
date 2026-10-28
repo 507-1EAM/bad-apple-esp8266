@@ -9,3 +9,5 @@ for upload use:
 pio run -t upload    
 pio run -t uploadfs
 ```
+
+![Screen](work-example/screen.jpg)
