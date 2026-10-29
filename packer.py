@@ -1,4 +1,4 @@
-kimport struct
+import struct
 import os
 
 FRAME_SIZE = 1024
